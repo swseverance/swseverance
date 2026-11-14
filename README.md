@@ -1,1 +1,2 @@
-# swseverance
+[![swseverance's positive reactions on GitHub](https://ghreactions.io/card/swseverance.svg?theme=light#gh-light-mode-only)](https://ghreactions.io/u/swseverance/issues)
+[![swseverance's positive reactions on GitHub](https://ghreactions.io/card/swseverance.svg?theme=dark#gh-dark-mode-only)](https://ghreactions.io/u/swseverance/issues)
