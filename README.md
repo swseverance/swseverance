@@ -1,2 +1,6 @@
-[![swseverance's positive reactions on GitHub](https://ghreactions.io/card/swseverance.svg?theme=light#gh-light-mode-only)](https://ghreactions.io/u/swseverance/issues)
-[![swseverance's positive reactions on GitHub](https://ghreactions.io/card/swseverance.svg?theme=dark#gh-dark-mode-only)](https://ghreactions.io/u/swseverance/issues)
+<a href="https://ghreactions.io/u/swseverance/issues">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghreactions.io/card/swseverance.svg?theme=dark">
+    <img alt="swseverance's positive reactions on GitHub" src="https://ghreactions.io/card/swseverance.svg?theme=light">
+  </picture>
+</a>
