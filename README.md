@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-[![swseverance's Angularian profile](https://angularians.dev/swseverance/card.png)](https://angularians.dev/swseverance)
+[![swseverance's Angularian profile](https://angularians.dev/swseverance/card.png?avatar=off)](https://angularians.dev/swseverance?avatar=off)
